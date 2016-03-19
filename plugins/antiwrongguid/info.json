@@ -1,0 +1,16 @@
+{
+    "gsm.plugins.antiwrongguid": {
+        "compatibility": {
+            "dependencies": {"gsm.daemon": "1.1.0"},
+            "games": {"bf4": "0", "bfh": "0", "cod2": "1", "cod4": "1", "cod5": "1", "cod6": "1"}
+        },
+        "information": {
+            "author": "Mirko911",
+            "date": "30.04.2015",
+            "description": "Offers the ability to kick people with the same guid",
+            "name": "Anti wrong guid",
+            "version": "1.0.1",
+            "website": "3xp-clan.com"
+        }
+    }
+}

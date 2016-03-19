@@ -1,0 +1,8 @@
+{
+    "antiwrongguid": {
+        "enabled": false,
+        "mode": "kick",
+        "reasonempty": "Server detected empty GUID",
+        "reasonmulti": "Multiple Key"
+    }
+}
